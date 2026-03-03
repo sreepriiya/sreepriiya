@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sree Priya Nalla</h1>
+<h1 align="center">Hi 👋, I'm Sree Priya</h1>
 <h3 align="center">A passionate Frontend Developer & Software Engineer</h3>
 
 - 🔭 I’m currently working on **scalable web applications and cloud-based solutions**
